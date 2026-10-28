@@ -13,7 +13,7 @@ Settings and recent-file lists are kept in Goban's settings folder on your compu
 
 ## Updates
 
-- **Copies from GitHub** (the installer or portable download): When it starts, Goban asks GitHub for the newest **published** release of `cuteclaudia/goban-releases`, and offers it to you. Nothing about you, your files or your computer is sent; GitHub sees an ordinary web request (your IP address), under GitHub's privacy statement.
+- **Copies from GitHub** (the installer or portable download): When it starts, Goban asks GitHub for the newest **published** release of `cuteclaudia/goban-releases`, and offers it to you. It's an ordinary web request, so GitHub sees your IP address and the usual request details, under GitHub's privacy statement. Goban adds nothing about your files or your work.
 - **Copies from the Microsoft Store**: the Store installs and updates Goban; Goban doesn't
   check GitHub at all. Microsoft's privacy statement covers the Store.
 
